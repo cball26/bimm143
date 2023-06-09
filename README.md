@@ -1,6 +1,10 @@
-# bimm143
-Bioinformatics lab class
+# Classwork
 
-Add changes from local computer.
+This page contains my classwork from BIMM 143: Bioinformatics Lab at UC San Diego in Spring 2023. The main class homepage is [here](https://labbioinfo.org). 
 
-Add changed from remote.
+
+## Content 
+
+- Class 6: [R functions](https://github.com/cball26/bimm143/blob/main/class_06/class_06.md).
+
+
